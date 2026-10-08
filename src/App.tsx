@@ -266,8 +266,8 @@ function App() {
               <h2>MAKE YOUR<br /><span>FIRST MOVE.</span></h2>
               <p>Leave your details and the Lions Den team will contact you.</p>
               <div className="contact-mini">
-                <a href="tel:+919999999999"><Phone /> +91 99999 99999</a>
-                <span><Clock3 /> Mon–Sun · 6:00 AM – 10:00 PM</span>
+                <a href="tel:+917061773593"><Phone /> +91 7061773593</a>
+                <span><Clock3 /> Mon–Sat · 6:00 AM – 10:00 PM</span>
               </div>
             </div>
 
@@ -297,12 +297,12 @@ function App() {
               <p>Strength. Discipline. Results.</p>
             </div>
             <div className="footer-contact">
-              <div><MapPin /><span><b>ADDRESS</b><br />Replace with Lions Den's complete address<br />Ranchi, Jharkhand</span></div>
-              <div><Phone /><span><b>TRAINER / OWNER</b><br /><a href="tel:+919999999999">+91 99999 99999</a></span></div>
+              <div><MapPin /><span><b>ADDRESS</b><br />Shaheb More, Itki<br />Ranchi, Jharkhand</span></div>
+              <div><Phone /><span><b>ZISHAN</b><br /><a href="tel:+917061773593">+91 7061773593</a></span></div>
             </div>
             <div className="footer-social">
               <a href="#" aria-label="Instagram"><Instagram /></a>
-              <a href="tel:+919999999999" aria-label="Call"><Phone /></a>
+              <a href="tel:+917061773593" aria-label="Call"><Phone /></a>
             </div>
           </div>
           <div className="footer-bottom">
